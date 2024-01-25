@@ -37,9 +37,7 @@ body {
     
 }
 
-img{
-    padding-left: 10%;
-}
+
 
 .buttons{
     display: flex;
@@ -68,7 +66,7 @@ img{
         height: 100vh;
     }
 
-    .header_text {
+    .header {
         font-size: 20px;
     }
 
@@ -87,7 +85,7 @@ img{
         height: 90vh;
     }
 
-    .header_text {
+    .header {
         font-size: 28px;
     }
 
