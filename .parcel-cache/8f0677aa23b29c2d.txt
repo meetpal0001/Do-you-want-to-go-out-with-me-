@@ -36,7 +36,7 @@
 83D:\Study\Personal Projects\Date\node_modules\@swc\helpers\_\_ts_values\package.json133484229379106513 0
 80D:\Study\Personal Projects\Date\node_modules\type-fest\source\readonly-deep.d.ts133484229374087094 0
 74D:\Study\Personal Projects\Date\node_modules\msgpackr-extract\package.json133484229371893480 0
-36D:\Study\Personal Projects\Date\dist133506896255201534 1
+36D:\Study\Personal Projects\Date\dist133506906066379947 1
 76D:\Study\Personal Projects\Date\node_modules\caniuse-lite\data\regions\AL.js133484229373594736 0
 52D:\Study\Personal Projects\Date\node_modules\globals133484229375366623 1
 73D:\Study\Personal Projects\Date\node_modules\@parcel\packager-css\LICENSE133484229391784657 0
@@ -52,7 +52,7 @@
 94D:\Study\Personal Projects\Date\node_modules\csso\node_modules\css-tree\lib\generator\index.js133484229395983075 0
 84D:\Study\Personal Projects\Date\node_modules\@parcel\transformer-babel\lib\config.js133484229386039979 0
 65D:\Study\Personal Projects\Date\node_modules\import-fresh\license133484229372211962 0
-46D:\Study\Personal Projects\Date\src\styles.css133506896254924093 0
+46D:\Study\Personal Projects\Date\src\styles.css133506905087386633 0
 92D:\Study\Personal Projects\Date\node_modules\caniuse-lite\data\features\channel-messaging.js133484229375422695 0
 90D:\Study\Personal Projects\Date\node_modules\lmdb\node_modules\node-addon-api\package.json133484229401172001 0
 91D:\Study\Personal Projects\Date\node_modules\css-select\node_modules\entities\lib\encode.js133484229372364329 0
@@ -61,7 +61,7 @@
 63D:\Study\Personal Projects\Date\node_modules\lmdb\node-index.js133484229380684797 0
 94D:\Study\Personal Projects\Date\node_modules\csso\node_modules\css-tree\lib\syntax\node\CDC.js133484229395527830 0
 76D:\Study\Personal Projects\Date\node_modules\update-browserslist-db\index.js133484229373211138 0
-46D:\Study\Personal Projects\Date\src\index.html133506893054076302 0
+46D:\Study\Personal Projects\Date\src\index.html133506905899640806 0
 66D:\Study\Personal Projects\Date\node_modules\js-yaml\lib\schema.js133484229373456266 0
 78D:\Study\Personal Projects\Date\node_modules\@parcel\core\src\public\Bundle.js133484229397765882 0
 76D:\Study\Personal Projects\Date\node_modules\caniuse-lite\data\regions\VI.js133484229382591731 0
@@ -2317,7 +2317,7 @@
 137D:\Study\Personal Projects\Date\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133484229402999938 0
 84D:\Study\Personal Projects\Date\node_modules\htmlparser2\lib\WritableStream.d.ts.map133484229372354334 0
 76D:\Study\Personal Projects\Date\node_modules\caniuse-lite\data\regions\TO.js133484229382301900 0
-52D:\Study\Personal Projects\Date\dist\yes.a3ddfd73.js133506895556853224 0
+52D:\Study\Personal Projects\Date\dist\yes.a3ddfd73.js133506905862291126 0
 67D:\Study\Personal Projects\Date\node_modules\htmlnano\.eslintignore133484229376414916 0
 97D:\Study\Personal Projects\Date\node_modules\@babel\highlight\node_modules\color-convert\index.js133484229398551513 0
 66D:\Study\Personal Projects\Date\node_modules\htmlnano\CHANGELOG.md133484229377381204 0
@@ -2340,7 +2340,7 @@
 93D:\Study\Personal Projects\Date\node_modules\css-select\node_modules\domhandler\lib\node.d.ts133484229372549416 0
 76D:\Study\Personal Projects\Date\node_modules\caniuse-lite\data\regions\SV.js133484229381974352 0
 54D:\Study\Personal Projects\Date\node_modules\@swc\core133484229376576881 1
-56D:\Study\Personal Projects\Date\dist\yes.a3ddfd73.js.map133506895556897966 0
+56D:\Study\Personal Projects\Date\dist\yes.a3ddfd73.js.map133506905862311205 0
 61D:\Study\Personal Projects\Date\node_modules\htmlnano\test.js133484229376904361 0
 90D:\Study\Personal Projects\Date\node_modules\caniuse-lite\data\features\input-minlength.js133484229379358589 0
 85D:\Study\Personal Projects\Date\node_modules\@parcel\transformer-postcss\package.json133484229387584682 0
@@ -4497,7 +4497,7 @@
 98D:\Study\Personal Projects\Date\node_modules\@swc\helpers\_\_class_private_field_init\package.json133484229377937042 0
 107D:\Study\Personal Projects\Date\node_modules\@swc\helpers\_\_class_check_private_static_access\package.json133484229377867896 0
 103D:\Study\Personal Projects\Date\node_modules\@swc\helpers\_\_class_apply_descriptor_update\package.json133484229377857855 0
-55D:\Study\Personal Projects\Date\dist\index.4d663569.css133506896255187910 0
+55D:\Study\Personal Projects\Date\dist\index.4d663569.css133506906066349137 0
 100D:\Study\Personal Projects\Date\node_modules\@swc\helpers\_\_class_apply_descriptor_get\package.json133484229377827526 0
 81D:\Study\Personal Projects\Date\node_modules\@parcel\workers\lib\web\WebWorker.js133484229381761007 0
 101D:\Study\Personal Projects\Date\node_modules\@swc\helpers\_\_check_private_redeclaration\package.json133484229377803175 0
@@ -5362,7 +5362,7 @@
 102D:\Study\Personal Projects\Date\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\package.json133484229403356809 0
 97D:\Study\Personal Projects\Date\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins133484229403265933 1
 99D:\Study\Personal Projects\Date\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\README.md133484229403366853 0
-45D:\Study\Personal Projects\Date\dist\yes.html133506895556907963 0
+45D:\Study\Personal Projects\Date\dist\yes.html133506905861888361 0
 111D:\Study\Personal Projects\Date\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupIDs.js133484229402662294 0
 121D:\Study\Personal Projects\Date\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupNumericValues.js133484229402692413 0
 116D:\Study\Personal Projects\Date\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\convertPathData.js133484229402767369 0
@@ -5871,7 +5871,7 @@
 56D:\Study\Personal Projects\Date\node_modules\.bin\semver133484229497206612 0
 60D:\Study\Personal Projects\Date\node_modules\.bin\semver.ps1133484229497206612 0
 58D:\Study\Personal Projects\Date\node_modules\.bin\svgo.cmd133484229497206612 0
-53D:\Study\Personal Projects\Date\dist\Date.59712999.js133506895555832235 0
-57D:\Study\Personal Projects\Date\dist\Date.59712999.js.map133506895555893693 0
+53D:\Study\Personal Projects\Date\dist\Date.59712999.js133506905862529606 0
+57D:\Study\Personal Projects\Date\dist\Date.59712999.js.map133506905862539630 0
 64D:\Study\Personal Projects\Date\dist\Date.59712999.js.map.2700.9133494818302463480 0
-59D:\Study\Personal Projects\Date\dist\index.4d663569.css.map133506896255201534 0
+59D:\Study\Personal Projects\Date\dist\index.4d663569.css.map133506906066369227 0

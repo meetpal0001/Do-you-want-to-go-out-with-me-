@@ -21,15 +21,11 @@
             <a id="no" class="btn" href="" onmouseover="moveButton()">No</a>
             <script>
                 function moveButton() {
-                    let noButton = document.getElementById("no");
-                    let x = Math.random()* (window.innerWidth - 2*noButton.offsetWidth)
-                    let y = Math.random()* (window.innerHeight - 2*noButton.offsetHeight)
-                    noButton.style.left = x + "px"
-                    noButton.style.top = y + "px"
-                    console.log("x: "+x+"px")
-                    console.log("y: "+y+"px")
-
-                }
+                        var x = Math.random() * (window.innerWidth - document.getElementById('no').offsetWidth) - 85;
+                        var y = Math.random() * (window.innerHeight - document.getElementById('no').offsetHeight) - 48;
+                        document.getElementById('no').style.left = `${x}px`;
+                        document.getElementById('no').style.top = `${y}px`;
+                    }
             </script>
         </div>
     </div>
