@@ -7,7 +7,7 @@ body {
 }
 
 #yes {
-  margin-right: 250px;
+  margin-right: 150px;
 }
 
 #no {
@@ -55,6 +55,44 @@ img {
   display: inline-block;
   position: absolute;
   box-shadow: 0 4px 8px #0003, 0 6px 20px #00000030;
+}
+
+@media only screen and (width <= 320px) and (height <= 568px) {
+  body {
+    height: 100vh;
+  }
+
+  .header_text {
+    font-size: 20px;
+  }
+
+  img {
+    height: 60vh;
+  }
+
+  .btn {
+    padding: 10px 18px;
+    font-size: 12px;
+  }
+}
+
+@media only screen and (width <= 414px) and (height <= 736px) {
+  body {
+    height: 90vh;
+  }
+
+  .header_text {
+    font-size: 28px;
+  }
+
+  img {
+    height: 60vh;
+  }
+
+  .btn {
+    padding: 15px 25px;
+    font-size: 14px;
+  }
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */
