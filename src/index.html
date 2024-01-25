@@ -17,9 +17,12 @@
             <img src="https://media.giphy.com/media/A9dZqpVpbLsju/giphy.gif" alt="Cute Cat">
         </div>
         <div class="buttons">
-            <a id="yes" class="btn" href="yes.html">Yes</a>
-            <a id="no" class="btn" href="" onclick="moveButton()" onmouseover="moveButton()">No</a>
+            <button id="yes" class="btn" href="yes.html" onclick="nextPage()">Yes</button>
+            <button id="no" class="btn" href="" onmouseover="moveButton()">No</button>
             <script>
+                function nextPage() {
+                        window.location.href = "yes.html";
+                    }
                 function moveButton() {
                         var x = Math.random() * (window.innerWidth - document.getElementById('no').offsetWidth) - 85;
                         var y = Math.random() * (window.innerHeight - document.getElementById('no').offsetHeight) - 48;
