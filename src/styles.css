@@ -20,7 +20,7 @@ body {
 
 .header{
     font-family: 'Nunito';
-    font-size: 50px;
+    font-size: 40px;
     font-weight: bold;
     color: white;
     text-align: center;
@@ -41,8 +41,11 @@ body {
 
 .buttons{
     display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
 .btn{
